@@ -1,6 +1,6 @@
 {
   "name": "file-helper-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to perform basic file system changes",
   "main": "index.js",
   "scripts": {
