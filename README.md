@@ -1,10 +1,19 @@
-# Install
+# file-helper-cli
+> Listen to file changes
+> Delete files
+> Rename files
+> Read files
+> Create new files
+
+A simple file system cli tool built in Node
+
+## Install
 
 ```
 npm install -g file-helper-cli
 ```
 
-#Usage
+## Usage
 
 ```
 Options:
